@@ -1,0 +1,19 @@
+<template name="header">
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="{{pathFor 'roomsList'}}">Music Rooms</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navigation">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="{{pathFor 'roomSubmit'}}">Создать комнату</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    {{> loginButtons}}
+                </ul>
+            </div>
+        </div>
+    </nav>
+</template>

@@ -1,0 +1,852 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"req"
+			],
+			[
+				"ser",
+				"serverDomain"
+			],
+			[
+				"req",
+				"reqDomain"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"fil",
+				"fileStream"
+			],
+			[
+				"get",
+				"getPhrase"
+			],
+			[
+				"Er",
+				"Error"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"p",
+				"phrases"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"rou",
+				"routes"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"Logg",
+				"LoggerInterface"
+			],
+			[
+				"impl",
+				"implements"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"pare",
+				"parent_id"
+			],
+			[
+				"post",
+				"postId"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"co",
+				"comments"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"par",
+				"parent_id"
+			],
+			[
+				"dat",
+				"data-item"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"comment",
+				"commentForm"
+			],
+			[
+				"comme",
+				"commentForm"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"dele",
+				"deletePost"
+			],
+			[
+				"uns",
+				"unserialize"
+			],
+			[
+				"po",
+				"posts2"
+			],
+			[
+				"ajax",
+				"ajaxUrl"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"add-p",
+				"add-post-block"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"wor",
+				"works-example"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"sav",
+				"saveLi"
+			],
+			[
+				"op",
+				"operator"
+			],
+			[
+				"this",
+				"thisPromiseCount"
+			],
+			[
+				"ope",
+				"operatorList"
+			],
+			[
+				"opera",
+				"operatorList"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"date",
+				"dateInUtc"
+			],
+			[
+				"docto",
+				"doctorsArr"
+			],
+			[
+				"doctor",
+				"doctorsArr"
+			],
+			[
+				"curDoc",
+				"curDoctorsIdString"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"h",
+				"hourse"
+			],
+			[
+				"doc",
+				"doctor_name"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"res",
+				"resAvailableDoctors"
+			],
+			[
+				"spe",
+				"speciality_id"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"connec",
+				"connection"
+			],
+			[
+				"_pdo",
+				"_pdoPrm"
+			],
+			[
+				"_pd",
+				"_pdoPassword"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"q",
+				"queryAdd"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"ima",
+				"image_bin"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"html",
+				"HtmlElements"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Tourna",
+				"tournaments"
+			],
+			[
+				"getAll",
+				"getAllTournamentsUrl"
+			],
+			[
+				"baske",
+				"basket-img"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"rand",
+				"random_num"
+			],
+			[
+				"colo",
+				"color_array"
+			],
+			[
+				"calc",
+				"calc_result"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"time",
+				"time2"
+			],
+			[
+				"mysql",
+				"mysqli"
+			],
+			[
+				"vap",
+				"var_dump"
+			],
+			[
+				"array",
+				"array	$… = array (…)"
+			],
+			[
+				"dog",
+				"dogs_bark"
+			],
+			[
+				"array_f",
+				"array_filter"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"lives",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"livesty",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"package contro: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/error.log",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/server.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/routes.php",
+		"/F/WEB/microscope/microscope.js",
+		"/F/Шаблоны - Discover Meteor.html",
+		"/C/MyDocuments/AutoHotkey.ahk",
+		"/C/MyDocuments/AutoHotkey.ahk.txt",
+		"/F/WEB/microscope/microscope.css",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/access.log",
+		"/F/node/1/index.html",
+		"/F/node/1/app.js",
+		"/G/index.html",
+		"/F/node/1/chat.js",
+		"/F/node/1/server.js",
+		"/F/Soft/OpenServer/domains/php/logger/index.php",
+		"/F/Soft/OpenServer/domains/php/logger/logger.php",
+		"/F/Soft/OpenServer/domains/php/logger/psr.php",
+		"/F/WEB/Prepros/index.html",
+		"/F/WEB/Prepros/less/style.less",
+		"/F/WEB/Prepros/css/style.css",
+		"/F/node/1/npm-debug.log",
+		"/F/node/1/big.html",
+		"/F/WEB/lincer/Пароли.txt",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/collection.tpl",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/santehnika.tpl",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/default.tpl",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/custom.php",
+		"/F/Soft/OpenServer/domains/php/test.php",
+		"/F/Soft/OpenServer/domains/php/singleton.php",
+		"/F/WEB/qa/qa-include/pages/login.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/limits.php",
+		"/F/WEB/qa/qa-include/pages/reset.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/qa-config.php",
+		"/F/WEB/qa/qa-include/lang/qa-lang-users.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/qa-db.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/register.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/users-edit.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/login.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/users 2.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/qa-index.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/qa-base.php",
+		"/F/WEB/qa/qa-include/pages/register.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/users.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/emails.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/qa-page-login.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/controllers/PostsController.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/web/js/main.js",
+		"/F/Soft/OpenServer/domains/artplanet/basic/web/css/site.css",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/Comments.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/config/web.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/Posts.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/posts/detail.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/posts/index.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/posts/comments.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/assets/AppAsset.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/PostForm.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/CommentForm.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/web/js/jquery.scrollTo.min.js",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/layouts/main.php",
+		"/F/WEB/babylon-project/pass.txt",
+		"/F/work/Портфолио.txt",
+		"/F/WEB/baby-club.spb.ru/пароли/пароли.txt",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/index 4.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/form.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/form 2.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/form 3.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/index 3.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/Mail.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/_blog-rss.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/controllers/SiteController.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/site/login.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/web/posts.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/controllers/AjaxController.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/web/index.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/vendor/yiisoft/yii2/messages/ru/yii.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/site/contact.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/ContactForm.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/LoginForm.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/AddPostForm.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/config/db.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/User.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/models/PostsSearch.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/site/say.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/views/site/index.php",
+		"/F/Soft/OpenServer/domains/artplanet/basic/web/robots.txt",
+		"/F/Soft/OpenServer/domains/click-click/first/index.html",
+		"/F/Soft/OpenServer/domains/click-click/first/js/main.js",
+		"/F/Soft/OpenServer/domains/click-click/first/css/main.css",
+		"/F/Soft/OpenServer/domains/php/MyString.php",
+		"/F/Soft/OpenServer/domains/click-click/second/index.html",
+		"/F/Soft/OpenServer/domains/click-click/second/js/main.js",
+		"/F/Soft/OpenServer/domains/click-click/second/css/main.css",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/factory.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/connect 2.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/receptions.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/iusers.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/doctor.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/receptions.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/speciality.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/users.php",
+		"/C/Users/iPaykan/AppData/Local/Temp/fz3temp-1/connect.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/ajax/test.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/factory.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/ajax/index.php",
+		"/F/Soft/OpenServer/domains/napopravku/files/main.css",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/idoctor.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/ireceptions.php",
+		"/F/Soft/OpenServer/domains/napopravku/files/main.js",
+		"/F/Soft/OpenServer/domains/napopravku/index.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/views/template.html",
+		"/F/Soft/OpenServer/domains/Denero/oop/oop.php",
+		"/F/Soft/OpenServer/domains/moiai/files/js/main.moiai_module.js",
+		"/F/Soft/OpenServer/domains/moiai/ajax/index.php",
+		"/E/Downloads/PHP_Web_sites/Практика создания Web-сайтов (2 издание)/cd/01/1.18/2.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/models/ispeciality.php",
+		"/F/Soft/OpenServer/domains/napopravku/app/views/TwigView.php",
+		"/F/Soft/OpenServer/domains/napopravku/files/jquery-ui-1.11.2.min.css",
+		"/F/Soft/OpenServer/domains/napopravku/files/jquery-ui-1.11.2.min.js",
+		"/F/Soft/OpenServer/domains/napopravku/files/reset.css",
+		"/F/Soft/OpenServer/domains/napopravku/templates/template.html",
+		"/F/Soft/OpenServer/domains/napopravku/twig/vendor/autoload.php",
+		"/F/Soft/OpenServer/domains/napopravku/templates/index.php",
+		"/F/Soft/OpenServer/domains/napopravku/Slim-extras/Views/Twig.php",
+		"/F/Soft/OpenServer/domains/napopravku/index2.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"block__element--modificator",
+			"var_d",
+			"LoggerInterface",
+			"tuc",
+			"Производители:",
+			"span",
+			"ызфт",
+			"itemprop",
+			"Артикул",
+			"getProductInfo",
+			"preview_common_produce",
+			"qa_db_user_create",
+			"qa_create_new_user",
+			"users",
+			"qa_db_read_all_values",
+			"qa_db_query_sub",
+			"login_limit",
+			"Too many login attempts - please try again in an hour",
+			"qa_db_user_find_by_email",
+			"user_not_found",
+			"User not found",
+			"qa_db_user_find_by_email",
+			"user_not_found",
+			"qa_user_limits_remaining",
+			"user_not_found",
+			"User not found",
+			"qa_create_new_user",
+			"register",
+			"emailhandle",
+			"login.php",
+			"user_not_found",
+			"User not found",
+			"login",
+			"index",
+			"ubdex",
+			"login",
+			"like",
+			"liek",
+			"Likes count",
+			"like",
+			"post-comment",
+			"false",
+			"get",
+			"str",
+			"date(",
+			"date",
+			"rule",
+			"addComment",
+			"echo",
+			"#",
+			".js",
+			"col",
+			"->render('detail', ",
+			"name",
+			"formName",
+			"post",
+			"postForm",
+			"form",
+			":",
+			"getPostById",
+			"detail",
+			"post",
+			"Like",
+			"like",
+			"Url",
+			"bia",
+			"qwe",
+			"biaqwe",
+			"715",
+			"comments",
+			"commen_i",
+			"structureComments",
+			"<?=",
+			"<?",
+			"like",
+			"btn-like-post",
+			"delete-post",
+			"date",
+			"Html",
+			"where",
+			"rss",
+			"url",
+			"compone",
+			"defaultRoute",
+			"url",
+			"error",
+			"Comments.id",
+			"post_id",
+			"where",
+			"comments",
+			"%5D",
+			"%5B",
+			"lang",
+			"basePath",
+			"'language' => 'ru-RU'",
+			"base",
+			"cannot be blank",
+			"Login",
+			"text",
+			"model",
+			"attr",
+			"$model",
+			"login",
+			"valid",
+			"site",
+			"java",
+			"js",
+			"css",
+			"comme",
+			"db",
+			"sect",
+			";\n",
+			"{\n",
+			"loading",
+			"when",
+			"getOperatorValuesBtns",
+			"'",
+			"font-s",
+			"05.04.2014 12:00:00",
+			"06.11.2014 12:00:00",
+			"new",
+			"user",
+			"delete",
+			"cancel-appointment",
+			"getReceptionListByUserId",
+			"date",
+			"da",
+			"uns"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"]",
+			"[",
+			" => ",
+			"=\"$1\",",
+			"\"",
+			"",
+			"array_rand(array("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}

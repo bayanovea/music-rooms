@@ -1,0 +1,19 @@
+<template name="roomPage">
+    <div class="room-page page">
+        Комната <b>{{ name }}</b>
+
+        <div class="tracks-list">
+        	{{#each tracks}}
+            	{{> trackItem}}
+        	{{/each}}
+    	</div>
+
+        <button class="add-track">Добавить песню</button>
+
+    	<div class="tracks-control">
+    		<div class="tracks-control__btn tracks-control__prev-btn"></div>
+    		<div class="tracks-control__btn tracks-control__play-btn"></div>
+    		<div class="tracks-control__btn tracks-control__next-btn"></div>
+    	</div>
+    </div>
+</template>

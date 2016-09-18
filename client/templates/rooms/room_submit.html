@@ -1,0 +1,22 @@
+<template name="roomSubmit">
+    <form class="main form page">
+        <div class="form-group {{errorClass 'name'}}">
+            <label class="control-label" for="title">Название</label>
+            <div class="controls">
+                <input name="name" id="name" type="text" value="" placeholder="Название"
+                       class="form-control"/>
+                <span class="help-block">{{errorMessage 'name'}}</span>
+            </div>
+        </div>
+
+        <div class="form-group {{errorClass 'password'}}">
+            <label class="control-label" for="password">Пароль</label>
+            <div class="controls">
+                <input name="password" id="password" type="text" value="" placeholder="Пароль"
+                       class="form-control"/>
+                <span class="help-block">{{errorMessage 'password'}}</span>
+            </div>
+        </div>
+        <input type="submit" value="Submit" class="btn btn-primary"/>
+    </form>
+</template>

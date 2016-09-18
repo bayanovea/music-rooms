@@ -1,0 +1,42 @@
+.track-item {
+    cursor: pointer;
+
+    &__play-button {
+    	width: 24px;
+   	 	height: 24px;
+    	display: inline-block;
+    	background: url('https://music.yandex.ru/i/Q8qkMOxHX-TpdY9B-JuvkZ9gBZw.svg');
+
+    	&--pause {
+    		background: url('https://music.yandex.ru/i/j4uxKYzmuSmxhXtOzba85A3Akvs.svg');
+    	}
+    }
+}
+
+.tracks-control {
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+
+    &__btn {
+    	width: 40px;
+    	height: 40px;
+    	margin: 0 0 0 5px;
+    	padding: 10px 0;
+    	display: inline-block;
+    	cursor: pointer;
+    }
+
+	&__prev-btn {
+		background: url('https://music.yandex.ru/i/O3ovpBI6_JAXKzfMuWNnzgDVymE.svg') no-repeat;
+	}
+
+	&__play-btn {
+		background: url('https://music.yandex.ru/i/pvTiI1KJ3_c5Y_ca4DLvX0qLSyc.svg') no-repeat;
+	}
+
+	&__next-btn {
+		background: url('https://music.yandex.ru/i/Q7EIBncBHk1sv8LEHahCM8H8-ic.svg') no-repeat;
+	}
+}
